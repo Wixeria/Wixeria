@@ -11,4 +11,4 @@ Discord: rextywastaken
 
 My Discord bot Website: https://det-bot-website.vercel.app/
 
-![5C8C953B-1C65-4799-BC38-79C7F7042453](https://user-images.githubusercontent.com/105592273/217051349-173d798a-56bc-4521-afb7-dacd6b30dc5a.gif)
+![7d07a255678962d30d8717dcf5dbd266](https://github.com/RextyIsAlive/RexTyIsAlive/assets/105592273/8a6d2ec4-ac03-41d5-9a5b-05d9ca2fd9e5)

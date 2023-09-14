@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Discord bot.
-- 🚀 Ask me about Discord bot!
+- 🔭 I’m currently working on any type bot.
+- 🚀 Ask me about bots!
 - 🙋🏼‍♂️ Need a coder friend(s)
 
 -How to contact me? 

@@ -1,14 +1,19 @@
-### Hi there 👋
+<div align="center">
+<h1> :wave: Hi, I’m @romanizm </h1>
+<p> A high school student trying to gradually learn to code ❤ </p>
+  
+<h1> :grey_question: About </h1>
+  <p> :label: My name is Mustafa </p>
+  <p> :nerd: I am bot developer </p>
+  <p> :flag_white: I live in Azerbaijan </p>
+  <p> :desktop: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
-- 🔭 I’m currently working on any type bot.
-- 🚀 Ask me about bots!
-- 🙋🏼‍♂️ Need a coder friend(s)
 
--How to contact me? 
+<h1> ✍ Technologies I use </h1>
+<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
 
-Here!
-Discord: wixwastaken.
+<h1> :chart_with_upwards_trend: My stats </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=wixeria&show_icons=true&theme=dark" />
 
-About me Website: https://website-about-wix.vercel.app
-
-![7d07a255678962d30d8717dcf5dbd266](https://github.com/RextyIsAlive/RexTyIsAlive/assets/105592273/8a6d2ec4-ac03-41d5-9a5b-05d9ca2fd9e5)
+<h1> :gem: My achievements </h1>
+<img src="https://github-profile-trophy.vercel.app/?username=wixeria&theme=onedark" />

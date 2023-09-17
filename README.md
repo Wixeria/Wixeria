@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wix.</h1>
 <h3 align="center">Discord bot developer since 2020!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wixeria" alt="wixeria" /></a> </p>
+
 
 - 🔭 I’m currently working on **Discord bots**
 

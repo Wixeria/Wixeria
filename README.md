@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Discord bots**
+- 🔭 I’m currently working on **bots**
 
-- 🌱 I’m currently learning **Discord bots**
+- 🌱 I’m currently learning **Program Languages**
 
 - 🤝 I’m looking for help with **JavaScript**
 

@@ -21,4 +21,4 @@
 
 
 
-https://cdn.discordapp.com/attachments/1150927437077684304/1153052646404530276/C61C6BC4-903D-4ACB-96BF-5D903799BAB8.gif
+https://i.pinimg.com/originals/88/14/59/881459b227bd3f1dd264429f00d4576e.gif

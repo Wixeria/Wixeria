@@ -11,7 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wixeria](https://github.com/wixeria)
 
-- 📫 How to reach me **https://discord.com/users/1150921290396467281/**
+- 📫 How to reach me:
+-  **https://discord.com/users/1150921290396467281/**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">

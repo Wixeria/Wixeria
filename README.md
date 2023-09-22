@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/wixeria)
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/Wixeria?tab=repositories)
 
  - 📫 [**Reach me**](https://discord.com/users/1150921290396467281/) 
 

@@ -26,4 +26,3 @@
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1150921290396467281?theme=light&bg=80b1d8&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1150921290396467281)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wixeria" alt="wixeria" /></a> </p>

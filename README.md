@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wix.</h1>
 
-<h3 align="center">A bot developer.</h3>
+<h3 align="center">A developer.</h3>
 
 - 🔭 I’m currently working on **bots.**              <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wixeria&show_icons=true&locale=en&layout=compact" alt="wixeria" /></p>
 
@@ -12,12 +12,12 @@
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/Wixeria?tab=repositories)
 
- - 📫 [**Reach me**](https://discord.com/users/1150921290396467281/) 
+ - 📫 [**Reach me**](https://discord.com/users/885267314486960188/) 
 
 <p align="left">
-<a href="https://twitter.com/wixeriaa" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="wixeriaa"/></a>
-<a href="https://instagram.com/wixeriawastaken" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wixeriawastaken"/></a>
-<a href="https://discord.com/users/1150921290396467281/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="My Discord"/></a>
+<a href="https://twitter.com/wixeriaxd" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="wixeriaxd"/></a>
+<a href="https://instagram.com/veysalv_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="veysalv_"/></a>
+<a href="https://discord.com/users/885267314486960188/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="My Discord"/></a>
 </p>
 
 

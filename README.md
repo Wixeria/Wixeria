@@ -2,7 +2,7 @@
 
 <h3 align="center">A developer.</h3>
 
-- 🔭 I’m currently working on **bots.**              <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=littlejjacob&show_icons=true&locale=en&layout=compact" alt="wixeria" /></p>
+- 🔭 I’m currently working on **bots.**              <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?usernamewixeria&show_icons=true&locale=en&layout=compact" alt="wixeria" /></p>
 
 - 🌱 I’m currently learning **Program Languages**
 
@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/LittleJJacob?tab=repositories)
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/Wixeria?tab=repositories)
 
  - 📫 [**Reach me**](https://discord.com/users/1207410721772675194/) 
 

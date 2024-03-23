@@ -2,7 +2,7 @@
 
 <h3 align="center">A developer.</h3>
 
-- 🔭 I’m currently working on **bots.**              <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?usernamewixeria&show_icons=true&locale=en&layout=compact" alt="wixeria" /></p>
+- 🔭 I’m currently working on **bots.**              <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wixeria&show_icons=true&locale=en&layout=compact" alt="wixeria" /></p>
 
 - 🌱 I’m currently learning **Program Languages**
 

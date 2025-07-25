@@ -15,8 +15,7 @@
  - 📫 [**Reach me**](https://discord.com/users/1207410721772675194/) 
 
 <p align="left">
-<a href="https://twitter.com/LittleJJacob" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="wixeriaxd"/></a>
-<a href="https://instagram.com/wixeria1453" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wixeria1453"/></a>
+<a href="https://instagram.com/schasfield" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="schasfield"/></a>
 <a href="https://discord.com/users/1207410721772675194/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="My Discord"/></a>
 </p>
 

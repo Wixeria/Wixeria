@@ -1,6 +1,5 @@
 <h1 align="left">wixeria.exe</h1>
 
-<!-- Socials -->
 <p align="left">
   <a href="https://instagram.com/schasfield" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-101010?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -10,9 +9,7 @@
   </a>
 </p>
 
-<!-- Discord RPC + Most Used Languages -->
 <div style="display: flex; justify-content: center; align-items: flex-start; width: 100%; margin-top: 20px; flex-wrap: wrap; gap: 50px;">
-  <!-- Discord RPC -->
   <div style="margin: 0 auto;">
     <a href="https://discord.com/users/1207410721772675194">
     <img src="https://lanyard.cnrad.dev/api/1207410721772675194?theme=dark&bg=1f1f1f&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20listening%20to%20music..." alt="Discord Presence" />
@@ -20,7 +17,6 @@
   </div>
 </div>
 
-<!-- Languages and Tools -->
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-101010?style=flat&logo=html5&logoColor=white" alt="HTML5"/>

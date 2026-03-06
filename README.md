@@ -82,7 +82,7 @@ I build modern websites, design clean interfaces, and create digital projects.
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wixeria&background=101010&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&border=101010"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wixeria&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&border=00000000"/>
 </p>
 
 ---

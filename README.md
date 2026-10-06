@@ -73,7 +73,6 @@ I build modern websites, design clean interfaces, and create digital projects.
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-101010.svg?logo=vsc&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-101010?logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-101010?logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-101010?logo=githubcopilot&logoColor=white"/>
 </p>
 
